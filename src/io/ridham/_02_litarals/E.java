@@ -1,4 +1,4 @@
-package io.ridham._2_litarals;
+package io.ridham._02_litarals;
 
 // Usage of _ in numeric literals
 public class E {

@@ -1,4 +1,4 @@
-package io.ridham._2_litarals;
+package io.ridham._02_litarals;
 
 public class B {
 	// By default compiler treat every integral value as integer,

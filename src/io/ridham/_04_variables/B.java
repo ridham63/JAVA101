@@ -1,4 +1,4 @@
-package io.ridham._4_variables;
+package io.ridham._04_variables;
 
 // Instance variable defined inside class and outside method or block
 // This variable don't have static modifier

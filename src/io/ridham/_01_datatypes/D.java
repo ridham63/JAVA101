@@ -1,4 +1,4 @@
-package io.ridham._1_datatypes;
+package io.ridham._01_datatypes;
 
 // These are non-numeric type datatypea
 public class D {

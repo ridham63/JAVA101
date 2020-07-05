@@ -1,4 +1,4 @@
-package io.ridham._2_litarals;
+package io.ridham._02_litarals;
 
 // Any value assigned to datatype is literals
 public class A {

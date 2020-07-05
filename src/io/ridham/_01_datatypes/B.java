@@ -1,4 +1,4 @@
-package io.ridham._1_datatypes;
+package io.ridham._01_datatypes;
 
 // These are numeric integral type datatypes
 public class B {

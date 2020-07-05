@@ -1,4 +1,4 @@
-package io.ridham._2_litarals;
+package io.ridham._02_litarals;
 
 public class C {
 	boolean b1 = true;

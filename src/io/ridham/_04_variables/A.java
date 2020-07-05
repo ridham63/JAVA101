@@ -1,4 +1,4 @@
-package io.ridham._4_variables;
+package io.ridham._04_variables;
 
 public class A {
 

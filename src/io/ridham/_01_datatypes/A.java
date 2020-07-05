@@ -1,4 +1,4 @@
-package io.ridham._1_datatypes;
+package io.ridham._01_datatypes;
 
 // JAVA is strongly typed language
 // Datatypes can be classified in : primitive and derived

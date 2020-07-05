@@ -1,4 +1,4 @@
-package io.ridham._2_litarals;
+package io.ridham._02_litarals;
 
 public class D {
 	char ch1 = 'a';

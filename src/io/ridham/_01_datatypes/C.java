@@ -1,4 +1,4 @@
-package io.ridham._1_datatypes;
+package io.ridham._01_datatypes;
 
 // These are numeric floating-point type datatypes
 // Floating point has higher range but lower accuracy

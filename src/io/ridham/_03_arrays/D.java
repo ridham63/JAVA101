@@ -1,4 +1,4 @@
-package io.ridham._3_arrays;
+package io.ridham._03_arrays;
 
 import java.util.Arrays;
 
