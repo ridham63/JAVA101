@@ -6,6 +6,7 @@ package io.ridham._04_variables;
 // Static variable created at the time of class loading and destroyed at time of class unloading
 // It stored in method area
 // it's also called class level variable or fields
+// Not thread-safe
 
 /*
 * 	Start JVM

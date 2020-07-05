@@ -6,6 +6,7 @@ package io.ridham._04_variables;
 // Instance variable created at the time of object creation
 // It stored in heap memory
 // it's also called object level variable or attribute
+// Not thread-safe
 public class B {
 
 	// initialization of instance variable is optional
