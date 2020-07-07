@@ -2,6 +2,7 @@ package io.ridham._04_variables;
 
 public class D {
 	static int x = 10;
+	// to access instance variable in static context we must use reference of instance
 	int y = 20;
 
 	public static void main(String[] args) {
