@@ -15,8 +15,8 @@ public interface A1 {
 	int i =10;
 	int j = 20;
 	
-	//You can define methods inside interface
-	//Whether you define or not it is always abstract, so it must not have implementation
+	// You can define methods inside interface
+	// Whether you define or not it is always abstract, so it must not have implementation
 	void method1();
 	abstract void method2();
 }

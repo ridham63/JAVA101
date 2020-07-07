@@ -6,7 +6,6 @@ abstract public class B implements A1 {
 	// Abstract class can give implementation to interface methods
 	@Override
 	public void method1() {
-		// TODO Auto-generated method stub
-		
+
 	}
 }
